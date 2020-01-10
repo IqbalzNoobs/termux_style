@@ -118,7 +118,7 @@ def eyes_lolcat():
     os.system("clear")
     os.system("cowsay -f eyes ' Eyes Lolcat' | lolcat")
     os.system("toilet -f standard 'Eyes Lolcat' | lolcat")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat ")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat ")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
@@ -152,7 +152,7 @@ def eyes_gay():
     os.system('clear')
     os.system("cowsay -f eyes 'Cowsay' | lolcat")
     os.system("toilet -f standard '   Eyes Gay' -F gay")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
@@ -187,7 +187,7 @@ def train_lolcat():
     os.system("clear")
     os.system("sl")
     os.system("toilet -f standard 'TrainLolcat' | lolcat")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat ")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat ")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
@@ -222,7 +222,7 @@ def train_gay():
     os.system("clear")
     os.system("sl")
     os.system("toilet -f standard '  Train Gay' -F gay")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat ")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat ")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
@@ -253,7 +253,7 @@ def name_lolcat():
     os.system("cp -f bash.bashrc $HOME/../usr/etc")
     os.system("clear")
     os.system("toilet -f standard 'NameLolcat' | lolcat")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat ")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat ")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
@@ -284,7 +284,7 @@ def name_gay():
     os.system("cp -f bash.bashrc $HOME/../usr/etc")
     os.system("clear")
     os.system("toilet -f standard '  Name Gay' -F gay")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat ")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat ")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
@@ -316,7 +316,7 @@ def neofetch_lol():
     os.system("clear")
     os.system("neofetch")
     os.system("toilet -f standard '      Neof Lol' | lolcat")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat ")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat ")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
@@ -349,7 +349,7 @@ def neofetch_gay():
     os.system("clear")
     os.system("neofetch")
     os.system("toilet -f standard '     Neof Gay' -F gay")
-    os.system("echo '            Powered By: Iqbalz Noobs' | lolcat ")
+    os.system("echo '           Powered By: Orang Ganteng' | lolcat ")
     print ' '
     runntxt(a+"                √  S U C C E S ✓")
     runntxt(h+"          ✓  Silahkan Buka Sesi Baru ✓")
